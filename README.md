@@ -7,6 +7,18 @@ The client, Steve, initially asked for an analysis of a handful of green energy 
 
 ## Results
 
+![2017_Stocks](Resources/allStocks2017.png)
+
+![2018_Stocks](Resources/allStocks2018.png)
+
+![time1](Resources/original2017time.png)
+
+![time2](Resources/refactored2017time.png)
+
+![time3](Resources/original2018time.png)
+
+![time4](Resources/refactored2018time.png)
+
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
 Refactoring code increases the efficiency, either by taking fewer steps or improving the logic of the code without adding new functionality. This means that it will take less time to run and use up less memory on the device.
