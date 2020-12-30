@@ -9,15 +9,15 @@ The client, Steve, initially asked for an analysis of a handful of green energy 
 
 ![2017_Stocks](Resources/allStocks2017.png)
 
-![](Resources/allStocks2018.png)
+![2018_Stocks](Resources/allStocks2018.png)
 
-![](Resources/original2017time.png)
+![time1](Resources/original2017time.png)
 
-![](Resources/refactored2017time.png)
+![time2](Resources/refactored2017time.png)
 
-![](Resources/original2018time.png)
+![time3](Resources/original2018time.png)
 
-![](Resources/refactored2018time.png)
+![time4](Resources/refactored2018time.png)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
